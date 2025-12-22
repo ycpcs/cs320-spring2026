@@ -38,106 +38,114 @@ courseInfo.classPeriods = [
   		topic: new DoubleTopic("Lecture 6: Software Development Processes", "lectures/lecture06.html", "Lecture 7: Agile Process", "lectures/lecture07.html"),
   		reading: "UD: Chap 2 <br> Scrum Guide"
   	},
-//  	{
-//  		topic: new Topic("Exam 1 Review", "")
-//  	},
-//  	{
-//  		topic: new Topic("** Exam 1", "")
-//  	},
-//  	{
-//  		topic: new DoubleTopic("Lecture 10: Type casts, instanceof, Object class, Interfaces", "lectures/lecture10.html", "CS201_Lecture10_Gradle.zip","examples/CS201_Lecture10_Gradle.zip"),
-//  		lab: new NumberedLabGradle(10, "Comparable, Sorting")
-//  	},
-//  	{
-//  		topic: new TripleTopic("Lecture 11: Generic methods and classes", "lectures/lecture11.html", "CS201_Lecture11_Gradle.zip","examples/CS201_Lecture11_Gradle.zip", "CS201_Lecture11_Gradle_Final.zip","examples/CS201_Lecture11_Gradle_Final.zip"),
-//  		reading: "4.5&ndash;4.7",
-//  		lab: new NumberedLabGradle(11, "Using Generic Containers and Algorithms")
-//  	},
-//  	{
-//  		topic: new DoubleTopic("Lecture 12: Generic methods, functors", "lectures/lecture12.html", "CS201_Lecture12_Gradle.zip","examples/CS201_Lecture12_Gradle.zip"),
-//  		reading: "4.8",
-//  		lab: new NumberedLabGradle(12, "Functors")
-//  	},
-//  	{
-//  		topic: new DoubleTopic("Lecture 13: Analysis of Algorithms", "lectures/lecture13.html", "Lecture 14: Big-O", "lectures/lecture14.html"),
-//  		reading: "5.1&ndash;5.3",
-//  		lab: new DoubleNumberedLabGradleNoFile(13, "Benchmarking ArrayList", 14, "Big-O")
-//  	},
-// //	{
-// //		topic: new Topic("AWS Setup", ""),
-// //		reading: "Canvas videos",
-// //		lab: new NumberedLabGradle(7, "Inheritance AWS Test")
-// //	},
-// //	{
-// //		topic: new Topic("Lecture 13: Big-O", "lectures/lecture13.html"),
-// //		reading: "5.4&ndash;5.8",
-// //		lab: new NumberedLabNoFile(13, "Big-O")
-// //	},
-//  	{
-//  		topic: new DoubleTopic("Lecture 15: Collections, Iterators", "lectures/lecture15.html", "CS201_Lecture15_Gradle.zip","examples/CS201_Lecture15_Gradle.zip"),
-//  		reading: "6.1-6.3",
-//  		lab: new NumberedLabGradle(15, "Iterators, Interleaving")
-//  	},
-//  	{
-//  		topic: new DoubleTopic("Lecture 16: Generic Algorithms", "lectures/lecture16.html", "CS201_Lecture16_Gradle.zip","examples/CS201_Lecture16_Gradle.zip"),
-//  		reading: "6.4",
-//  		lab: new NumberedLabGradle(16, "Generic Algorithms")
-//  	},
-//  	{
-//  		topic: new Topic("** SPARTAN DAY", "")
-//  	},
-//  	{
-//  		topic: new Topic("Exam 2 Review", "")
-//  	},
-//  	{
-//  		topic: new Topic("** Exam 2", "")
-//  	},
-//  	{
-//  		topic: new DoubleTopic("Lecture 18: Parallel Programming with Threads", "lectures/lecture18.html", "CS201_Lecture18_Gradle.zip","examples/CS201_Lecture18_Gradle.zip"),
-//  		lab: new NumberedLabGradle(18, "Parallel Estimation of π")
-//  	},
-//  	{
-//  		topic: new TripleTopic("Lecture 17: Lists", "lectures/lecture17.html","Lecture 19: Stacks and Queues", "lectures/lecture19.html", "CS201_Lecture19_Gradle.zip","examples/CS201_Lecture19_Gradle.zip"),
-//  		reading: "6.5-6.6",
-//  		lab: new DoubleNumberedLabGradle(17, "List Reversal", 19, "Palindromes")
-//  	},
-//  	{
-//  		topic: new DoubleTopic("Lecture 20: Sets and Maps", "lectures/lecture20.html", "CS201_Lecture20_Gradle.zip","examples/CS201_Lecture20_Gradle.zip"),
-//  		reading: "6.7-6.8",
-//  		lab: new NumberedLabGradle(20, "Word Count")
-//  	},
-//  	{
-//  		topic: new DoubleTopic("Lecture 21: Recursion", "lectures/lecture21.html", "CS201_Lecture21_Gradle.zip","examples/CS201_Lecture21_Gradle.zip"),
-//  		reading: "7.1, 7.3",
-//  		lab: new NumberedLabGradle(21, "Recursion")
-//  	},
-//  	{
-//  		topic: new Topic("Lecture 22: Proof by Induction", "lectures/lecture22.html"),
-//  		reading: "7.2",
-//  		lab: new NumberedLabNoFile(22, "Proof by Induction")
-//  	},
-//  	{
-//  		topic: new DoubleTopic("Lecture 23: Memoization and Dynamic Programming", "lectures/lecture23.html", "CS201_Lecture23_Gradle.zip","examples/CS201_Lecture23_Gradle.zip"),
-//  		reading: "7.6",
-//  		lab: new NumberedLabGradle(23, "Binomial Coefficient")
-//  	},
-// // 	{
-// // 		topic: new Topic("Lecture 23: Merge and Quick Sort", "lectures/lecture23.html"),
-// // 		reading: "8.5-8.6",
-// // 		lab: new Lab("No lab", "")
-// // 	},
-//  	{
-//  		topic: new Topic("Exam 3 Review", "")
-//  	},
-//  	{
-//  		topic: new Topic("** Exam 3", "")
-//  	},
+  	{
+  		topic: new Topic("Lecture 8: Requirements", "lectures/lecture08.html"),
+  		reading: "UD: Chap 9"
+  	},
+  	{
+  		topic: new Topic("Lecture 9: Use Cases", "lectures/lecture09.html"),
+  		reading: "UD: Chap 9"
+  	},
+  	{
+  		topic: new DoubleTopic("Lecture 10: OOA", "lectures/lecture10.html", "Lecture 11: UML Diagrams","lectures/lecture11.html"),
+  		reading: "UD: Chap 3"
+  	},
+  	{
+  		topic: new Topic("** Individual MS1 Presentations", ""),
+  	},
+  	{
+  		topic: new Topic("Team Work Session: Analysis and Design", ""),
+  	},
+  	{
+  		topic: new DoubleTopic("Lecture 12: OO Design, OCP, LSP, Design Principles and Patterns", "lectures/lecture12.html", "Team Work Session: Analysis and Design", ""),
+  	},
+	{
+		topic: new Topic("Team Work Session: Analysis and Design, Git Set-up", ""),
+	},
+	{
+		topic: new Topic("Team Work Session: Analysis and Design, UML", ""),
+	},
+	{
+		topic: new Topic("Team Work Session: Analysis and Design", ""),
+	},
+	{
+		topic: new Topic("Team Work Session: Analysis and Design", ""),
+	},
+	{
+		topic: new Topic("Team Work Session: Prep for MS1", ""),
+	},
+	{
+		topic: new Topic("Team Work Session: Prep for MS1", ""),
+	},
+	{
+		topic: new Topic("** TEAM MS1 PRESENTATIONS", ""),
+	},
+  	{
+  		topic: new Topic("** Individual MS2 Presentations", ""),
+  	},
+  	{
+  		topic: new Topic("Lecture 13: Relational Databases", "lectures/lecture13.html"),
+  		lab: new NumberedLab(5, "SQL")
+  	},
+  	{
+  		topic: new Topic("Lecture 14: DB Applications, JDBC", "lectures/lecture14.html"),
+  		lab: new NumberedLab(6, "JDBC")
+  	},
+  	{
+  		topic: new Topic("Lecture 15: ORM", "lectures/lecture15.html"),
+  		lab: new NumberedLab(7, "ORM")
+  	},
+  	{
+  		topic: new Topic("Team Work Session: Prep for MS2", "")
+  	},
+  	{
+  		topic: new Topic("** TEAM MS2 PRESENTATIONS", "")
+  	},
+  	{
+  		topic: new Topic("ORM Review", ""),
+  	},
+  	{
+  		topic: new Topic("Lecture 16: DB Testing", "lectures/lecture16.html"),
+  	},
+  	{
+  		topic: new Topic("Lecture 17: Quality Assurance", "lectures/lecture17.html"),
+  	},
+  	{
+  		topic: new Topic("** Individual MS3 Presentations", ""),
+  	},
+  	{
+  		topic: new Topic("Library Example Project", ""),
+  	},
+  	{
+  		topic: new Topic("Team Work Session: Prep for MS3", "")
+  	},
+  	{
+  		topic: new Topic("** TEAM MS3 PRESENTATIONS", "")
+  	},
+  	{
+  		topic: new Topic("Team Work Session", "")
+  	},
+  	{
+  		topic: new Topic("Team Work Session", "")
+  	},
+  	{
+  		topic: new Topic("Team Work Session", "")
+  	},
+  	{
+  		topic: new Topic("Team Work Session", "")
+  	},
+  	{
+  		topic: new Topic("Team Work Session", "")
+  	},
+  	{
+  		topic: new Topic("Team Work Session", "")
+  	},
 ];
 
 // The following is for the college-scheduled final exam.
 // It is not used if final is on last day of class"
 courseInfo.finalExamDates = [
-		new FinalExamDay("101", new Date("12/10/2026 14:45:00")),
+		new FinalExamDay("Final Presentations", new Date("05/04/2026 14:45:00")),
 ];
 
 // vim:ts=2:
