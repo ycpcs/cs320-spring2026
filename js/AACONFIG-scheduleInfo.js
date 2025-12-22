@@ -5,11 +5,11 @@ courseInfo.classPeriods = [
 		topic: new DoubleTopic("Lecture 0: Course Overview", "lectures/lecture00.html", "Prep Exam", "CS320-Sp26-Prep-Exam.txt"),
 	},
 	{
-		topic: new Topic("Lecture 0a: Software Engineering Introduction, Calendar, Project", "lectures/lecture00a.html"),
+		topic: new Topic("Lecture 1: Software Engineering Introduction, Calendar, Project", "lectures/lecture01.html"),
  		lab: new NumberedLab(0, "Using ChatGPT")
 	},
  	{
- 		topic: new Topic("Lecture 1: OOP and ChatGPT", "lectures/lecture01.html"),
+ 		topic: new Topic("Lecture 2: OOP and ChatGPT", "lectures/lecture02.html"),
  		lab: new NumberedLab(1, "HTML and CSS")
  	},
 // 	{

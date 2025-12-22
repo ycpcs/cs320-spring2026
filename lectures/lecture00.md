@@ -31,5 +31,3 @@ Course will emphasize *agile* software development
 -   The idea is to make steady progress
 -   The system is stable and functional at all times
 -   Don't wait until the end of the project to "see if it works"
-
-[Here's how we're going to do that.](./lecture00a.html)

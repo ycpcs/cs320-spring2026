@@ -1,75 +1,88 @@
 ---
 layout: default
-title: OOP & ChatGPT
+title: Lecture 1: Course and Project Introductions
 ---
 
-Object-Oriented Programming (OOP)
-=================================
+All the Different Ways I'm Going to Torture You
+====================================================
 
-The course will focus on object-oriented software construction using an object-oriented language.
+What is this course really about?
 
-"Object-oriented" means that the software is a collection of objects that interact with each other.
+SW Engineering is about how to take a "word problem" (client proposal) and turn it into a working, deliverable application that meets the clients expectations, wants, and needs (those are different things, which we will discuss later in the course)
 
-In esence, identify the physical real-world objects that make up the project problem statement, and then translate those objects into prgrammatic classes that interact with each other, much as they would do in the real world.
+My approach to SW Engineering (in CS320) is as a "dry run" before your first internship or co-op, at least for the majority of you who have not yet been out in industry.
+   
+As such, throughout this course, I want you to experience what it **feels like** to be a Project Engineer in industry - to be in your career.  You will learn (and feel) that by doing - **A LOT OF DOING...!!!!  :-)**
 
-An *object* is an instance of a class.
+Employers expect that their engineers can do all of the following:
 
-A class is a user-defined data type: like a struct in C.
+- Solve problems (they enjoy solving the problems that are handed to them).
+   
+- Troubleshoot (their way out of the problems they create, as well as the problems that other people create/encounter).
+   
+- Work independently (no hand-holding)
+   
+- Work cooperatively in a team setting.
+   
+- Learn for themselves (probably the most important aspect).
+   
+You will be learning all of that **by doing all of that** this semester while researching, designing, and implementing the following two major projects.
 
-A class defines
+Individual Project
+==================
+An individual project of your own choosing - choose something that you want to be able to do, that you don't already know how to do, do it, and prove it.  The individual project will run for 10 weeks - starting now  (assignments 2, 4, 9).
+ 
+Why are we going to do that?
+ 
+**Self-Learning:** Your individual project will be all about self-learning.  You pick your "poison", you drink it, and then you have 10 weeks to find the "antidote".  All on your own - well, "on your own" in the sense that you will receive no explicit instruction from me on your individual project.  I will, at times, provide high level guidance.  You have the entire Internet (and anybody on the planet) at your disposal - and you may also use ChatGPT.  In fact, I highly recommend it.  You propose your project, then you figure it out.
 
-> **fields** (member variables): a collection of variables that each object that is an instance of the class will possess
+Learning how to learn for yourself is quite empowering.  You can solve any problem, even if you have never received instruction in the knowledge domains in which that problem resides.
 
-> **methods** (member functions): define the behavior of the objects that are instances of the class
+**Self-Interest:** You can also use the individual project to explore an area that you want to eventually work in and/or prepare you for different aspects of you team project.  For instance, you can learn JavaScript - which we will not be covering in this course, but which most of you will end up using for your team project.
 
-The key to developing good object-oriented software is figuring out what objects/classes you need, and what the *behavior* of those objects/classes should be!
+Team Project
+============
+   
+A semester long team project that you will select from a list of projects that are posted on the course website (assignments 1, 3, 8).  The team project runs the entire semester - starting now.  You will give several team milestone presentations during the semester.  Your final presentations will be during finals week.  Your team project **MUST** use a client-server architecture.  It **MUST** have a web front-end that connects to a server back-end.  The web front-end is the user interface (UI). The back-end does the processing, stores and retrieves the data in a SQL database, and serves up the web pages.  At a minimum, you will be using Eclipse, Java, HTML/CSS, and SQL for your project.  You will probably use javaScript, and more than that.
 
-> In other words, the important thing is WHAT objects do, not HOW they do it
+Why are we going to do this?
+   
+Your team project covers all the facets of Team Project Development:
 
-This is the distinction between *design* and *implementation*:
-
-> Design is figuring out WHAT the objects should do &mdash; their behavior
-
-> Implementation is taking the desired behavior and figuring out HOW the behavior should be accomplished
-
-This course focuses on both the design (the WHAT), and the implementation (the HOW). You will be learning WHAT the WHAT is while also learning HOW to do the HOW!
-
-ChatGPT (GPT = Generative Pre-Training)
-=======================================
-
-The future of AI arrived on November 30, 2022 when OpenAI released ChatGPT to the general public.  Your future as engineers changed forever on that date, too.  The introduction of high-level computer languages and then Integrated Development Environments (IDEs) were both paradigm shifts in software development - but they took years, even decades to be adopted and to evolve.  ChatGPT changed software development literally overnight.  Languages like C, C++, Java, Python, C#, combined with IDEs made programming easier and more efficient, but a developer still had to write the code.  In the hands of a developer who knows how to "collaborate" with ChatGPT, ChatGPT can be a very competent assistant and pair programmer.  ChatGPT can be a competent co-developer - it can write some rather decent code, as well as some pretty bad code.
-
-Background
-----------
-
-The time is now upon us! Artificial Intelligence has developed to the point that it can understand and carry out instructions in normal language format. AI can generate programs, summarize articles, do extensive searches, and many other professional tasks. It also has its limits, some of which are still being discovered. This lab investigates the vast possibilities and potential risks of using artificial intelligence to learn programming. Students will ask questions specifically related to the course material. The responses could potentially be written at a level that is too complex for student understanding. The point of the [ChatGPT lab](../labs/lab00.html) is to experiment with the capacity of ChatGPT and how it can serve you as a tool for learning content as well as completing tasks. 
-
-ChatGPT - Benefits and Warnings
--------------------------------
-
-We now live in a world where a program can interpret verbal instructions into algorithms. With only a little knowledge, people can write programs, create websites, draw intricate pictures, create music, and many other tasks. This kind of capability has never before been even a consideration to society, other than robots and droids of science fiction. 
-
-Naturally, with this capability, education will be enhanced at an unprecedented level. Each student can have their own personal tutor that helps with every topic. With experimentation, there could be untold ways an AI-assisted classroom can be quite effective. This may not be a surprise to anybody, but it will still be jolting when AI fully kicks in. At some point, the question may be raised whether human teachers are truly necessary anymore. However, with these benefits is the other side of the proverbial coin. 
-
-If ChatGPT can help students learn, it is equally capable at helping students bypass the pedagogical security **(a.k.a cheating)**. Students will be able to write papers, summarize articles and books, draw pictures, and create music, all with just a few sentences. The problem is, **the goal of learning is to acquire new skills.** ChaptGPT speeds up the process to the point that learning is not taking place. 
-
-At the same time, it can be a benefit to know how to use ChatGPT to get things done faster. The real world will certainly appreciate experience in this skill.  So, what are we, as teachers, to do with these last few years before the profession is regarded irrelevant? The decisions we make now will affect all of education in the future. 
-
-Completing Tasks vs. Learning Skills
-------------------------------------
-
-It is beneficial to students to mentally distinguish between **learning a skill** and **completing a task**. When completing a task, success is measured by the result given. How good of a project is this submission? However, completing a task does not fully represent whether the task can be repeated again successfully. If a student completes a task without learning how to do it, they may not be able to do it a second time. Completing tasks and learning skills are important, and are related to each other, but both must be accomplished for a successful education of the topic. If a teaching style is based only on completing tasks, the students may not learn fully, simply using ChatGPT to complete tasks without learning how to replicate the work.
-
-By separating tasks from learning skills, both can be covered separately. Students are instructed to complete tasks, with the idea that completing them will result in learning. Then students are tested in ways that ChatGPT is not available. To demonstrate learning, students must show they can complete the task without help. 
-
-Of course, it must be acknowledged that using the ChatGPT system itself is a skill that must be learned and tested. There is an overlap that can be addressed, but should not be used as an excuse to use ChatGPT for everything. At the root, students must be able to complete work with and without help from ChatGPT.
-
-In terms of exacts, here are some common teaching practices that will help limit negative effects of ChatGPT:
-
--   Testing should be handwritten only and in-class only. ChatGPT is easily available on any device, with or without the internet.
--   Submitting assignments should be more about the student demonstrating the skill learned, rather than the task completed. Grading should be a multi-stage process that ensures, at all stages, the student is doing the work properly. Papers should be completed incrementally with edited drafts, rather than all at once. Programs should be demonstrated by the students directly, either to the teacher one-on-one, to the class as a presentation, or as a video screen capture. Simply turning in the work puts too much burden on the teacher, and provides the opportunity to bypass grade security. Have the student demonstrate that the task is successful, and that they could repeat the work. 
--   Ensure students are aware of the difference between **completion** and **learning**. ChatGPT can have benefits to both, but it should not be abused.
-
-Ultimately, your teammates (in this course, and in the Capstone courses to come in your senior year) and your employers will hold you accountable for having learned the skills as well as completing the tasks. 
-
-Let's look at the [ChatGPT lab](../labs/lab00.html).
+**Proposal (assignment 1):** Propose what your team is going to do.
+   
+**Requirements (assignment 5):** Gather the requirements for your application.
+   
+**Use Cases (assignment 5):** Create Use Cases from those requirements.
+   
+**Analysis & Design (assignment 6):** Create design and architecture document using textual analysis from your Use Cases, and create a UML diagram for the structure and interaction of your project classes.
+   
+**Version Control (Git & GitHub):** How to manage and share issues, milestones, code, and documentation between all of your team members (Git will be the bain of your existence).
+   
+**Agile Development Process (Sprint and Scrum):** How to prioritize, schedule, and distribute your development tasks in a flexible fashion to adjust for changing requirements, ommissions/flaws in your design, bugs and other dealys in development.
+   
+**Working with Legacy Code in a Complex System:** In industry, including your co-ops/internships, you will be thrown into a legacy system - the project, the IDE, the language(s), the OS, the tools, the hardware, even the team will already exist, you will NOT get to choose them.  We will work with legacy code in this course.  You will have to load specific versions of Eclipse and Java, as well as download legacy labs for learning and developing servlet-based Web Applications, developing and using SQL databases, and for tying your front-end client to your server, servlets, and database.
+   
+**Testing (automated JUnit test suites):** You will be developing JUnit tests for ALL of your methods as you develop those methods.  You might even being developing test for code you didn't write.
+   
+**Learning "on the job":** As you are designing and developing your team project, you will be learning new languages and tools that you will need to use in order to develop your project: Requirements gathering, Use Cases, Textual Analysis, UML, HTML/CSS/JS for your front-end, Eclipse 2020-06 IDE, Java JDK 1.8.0-301, Apache Jetty9 server, Apache Derby SQL DB application, mostly like JavaScript, Java Servlets, JSPs (Java Server Pages), JSTL (Java Standard Tag LIbrary (JSTL), and any other tools you want to use.
+   
+**Solving Open-Ended Problems:** There is no sigle right answer for the vast majority of what you are going to do in this course.  And you might not know that you have one of the right answers, or a wrong answer until far after you think you have solved the problem.
+   
+**Using ChatGPT:** You will be creating a free ChatGPT account, and learning how to prompt and use ChatGPT as a collaborative tool and one-on-one assistant and tutor.  I have been using ChatGPT to see what kind of answers it would give to your Prep Exam, and it did better than any of you.  We are going to give you a head-start on your contemporaries from other schools, and get you immersed in it quickly.  Like and IDE, and various programming languages, you will be using a tool like ChatGPT for the rest of your careers - or at least until AI replaces us all...  :-)
+   
+**Documentation and Presentation Skills:** You will be giving me three personal milestone presentations for your individual project, your team will give four Milestone presentations to the class, and there will be a proposal and final report for your individual project, as well as various analysis and design documents and a final technical report for your team project.
+   
+**Working in a Collaborative Team Environment:** If you think working with a computer has been a pain-in-the ass, just wait until you work with people (especially when your grade depends upon their effort and success, and their grade depends o your effort and success)
+   
+**Meeting Deadlines:** You will be held to strict deadlines in this course.  There will be NO leeway.  I WILL hold your feet to the fire and expect you to deliver.  That's how it works in industry, that's what your employers and your co-workers will expect - that's how it will work in this course.
+   
+**Peer Evaluations:** Your team project grade is going to depend not only on your performance, but on your teammates perception of that performance.  We will have mid-semester and final peer evals that will help determine the portion of your team project grade for which you will reeive credit.  Just because your team project gets an 'A', does not mean that you will.  On the other hand ,just because your team project failed does NOT mean that you will fail (although in my 8 years of teaching this course, I've never had a team project fail).
+   
+**How Engineering Feels:** We're engineers, we don't talk about feelings...  :-)  But a major part of an engineering career involves A LOT of Stress, Anxiety, Frustration, and Self-Doubt - pretty much daily.  My intent with this course is for you to learn how to deal with that emotional environment while still successfully completing your projects and all of your other coursework.
+   
+**Preparation for Co-op/Internship:** In my view, that is the primary goal of this course, to provide you with a full "dry run" of the project development experience.
+   
+**Assessment:** Industry does NOT provide you with daily, weekly, monthly assessments of you efforts - you do NOT receive feedback (a grade and/or a solutiong) for every problem that you solve.  You do usually get 1-2 evaluations per year - at least an annual review.  The grading in this course is very similar to that.  Although I will grade your labs and assignments, and milestones, and exams in a timely fashion - you won't really have much of an idea about your final grade until after your final presentations.  So much of your grade rests on the success of your projects, and on the peer evaluations of your teammates, and well as my evaluatio of your professionism, that you will only have about 33% of your grade by the time your Final Presentation comes down.
+   
+As such, do **NOT** treat this course as a regular academic course - it is **NOT** just another course to pass and check-off on your course planner.  This course **IS** your career - treat it is as such.  If you do the work, if you apply yourself, if you tackle your projects with curiosity, passion, and tenacity, you will not only survive this course, you will thrive in it, and for the rest of your academic career - and beyond.
