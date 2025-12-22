@@ -67,7 +67,7 @@ Submit a 4-5 page report describing:
 Feel free to err on the side of more content, rather than less.  Also, don't forget to include the "main" repository URL as mentioned above, **with me assigned as a contributor to your project.**
 
 <div class="callout">
-Remember, this is a **technical document** so avoid using any *conversational tone* and *second person*. **Everyone** on the team is responsible for proofreading the report, my suggestion is to have someone (possibly *not* on the team) read the final draft report out loud to the team to make sure it is clear and complete.
+Remember, this is a <b>technical document</b> so avoid using any <i>conversational tone</i> and <i>second person</i>. <b>Everyone</b> on the team is responsible for proofreading the report, my suggestion is to have someone (possibly <i>not</i> on the team) read the final draft report out loud to the team to make sure it is clear and complete.
 </div>
 
 Submit the report to Marmoset as **assignT07-report-usernames** as you have done for other team assignment submissions.  Use *only* PDF: do *not* upload a Microsoft Word or rich text document.
