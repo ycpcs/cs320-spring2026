@@ -12,14 +12,13 @@ courseInfo.classPeriods = [
  		topic: new Topic("Lecture 2: OOP and ChatGPT", "lectures/lecture02.html"),
  		lab: new NumberedLab(1, "HTML and CSS")
  	},
-// 	{
-// 		topic: new TripleTopic("Lecture 4: GUIs and MVC", "lectures/lecture04.html", "CS201_Lecture04_Gradle.zip", "examples/CS201_Lecture04_Gradle.zip", "CS201_GUIMVCDemo_Gradle.zip","examples/CS201_GUIMVCDemo_Gradle.zip"),
-// 		lab: new NumberedLabGradle(4, "Drag and Drop GUI")
-// 	},
-// 	{
-// 		topic: new DoubleTopic("Lecture 5: Overloading, JUnit", "lectures/lecture05.html", "CS201_Lecture05_Gradle.zip", "examples/CS201_Lecture05_Gradle.zip"),
-// 		lab: new NumberedLabGradle(5, "Testing Overloaded Constructors")
-// 	},
+ 	{
+ 		topic: new DoubleTopic("Lecture 3: HTML and CSS", "lectures/lecture03.html","Individual Project Introduction","assign/assignI01.html"),
+ 		lab: new NumberedLab(1, "HTML and CSS")
+ 	},
+ 	{
+ 		topic: new Topic("Team Project Introduction", "assign/assignT01.html"),
+ 	},
 //  	{
 //  		topic: new DoubleTopic("Lecture 6: File I/O, Exceptions", "lectures/lecture06.html", "CS201_Lecture06_Gradle.zip","examples/CS201_Lecture06_Gradle.zip"),
 //  		reading: "2.5&ndash;2.6",
