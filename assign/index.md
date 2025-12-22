@@ -11,19 +11,16 @@ Assignment | Type | Due
 ---------- | ---- | ---
 **Team Project Assignments** | **Team** | **See Below**
 [Team Assignment 1: Team Project Proposal](assignT01.html) | Team | TBD, by Noon (PDF submitted to Marmoset)
-<!--
-[Assignment 5: Draft Use Cases](assign05.html)<br>[Assignment 5: Final Use Cases](assign05.html) | Team | Wednesday, 2-26-25, by start of class (Shared Google Doc)<br>Sunday, 3-2-25, by Noon (Shared Google Doc) and Marmoset (PDF)
-[Assignment 6: Problem Domain Analysis](assign06.html) | Team | Sunday, 3-16-25, by Noon (Shared Google Doc) and Marmoset (PDF)
-[Assignment 3a: Team Project Milestone 1 (MWS)](assign03.html) | Team | Friday, 3-21-25 (in-class Presentation)
-[Assignment 11: Team Project Midterm Self / Peer Evaluation](assign11.html) | Individual | Tuesday, 3-25-25, by Noon (PDF submitted to Marmoset)
-[Assignment 3b: Team Project Milestone 2 (50%)](assign03.html) | Team | Friday, 4-4-25 (in-class Presentation)
-[Assignment 3c: Team Project Milestone 3 (w/SQL DB)](assign03.html) | Team | Monday, 4-28-25 (in-class Presentation)
-[Assignment 10: Team Project Reflection](assign10.html) | Individual | Saturday, 5-10-25, by Noon (as part of your Final Team Project Peer Evaluations)
-[Assignment 11: Final Team Project Self / Peer Evaluation](assign11.html) | Individual | Saturday, 5-10-25, by Noon (PDF submitted to Marmoset)
-[Assignment 8: Team Project Final Presentation and Demo (Section 101)](assign08.html) | Team | Monday, 5-12-25, from 3:00pm to 5:00pm (during Final Exam Period)
-[Assignment 8: Team Project Final Presentation and Demo (Section 102)](assign08.html) | Team | Wednesday, 5-14-25, from 3:00pm to 5:00pm (during Final Exam Period)
- [Assignment 8: Team Project Technical Report](assign08.html) | Team | Thursday, 5-15-25, by Noon (PDF submitted to Marmoset)
--->
+[Team Assignment 2: Draft Use Cases](assignT02.html)<br>[Team Assignment 2: Final Use Cases](assignT02.html) | Team | TBD, by start of class (Shared Google Doc)<br>TBD, by Noon (Shared Google Doc) **and** Marmoset (PDF)
+[Team Assignment 3: Problem Domain Analysis](assignT03.html) | Team | TBD, by Noon (Shared Google Doc) and Marmoset (PDF)
+[Team Assignment 4a: Team Project Milestone 1 (MWS)](assignT04.html) | Team | TBD (in-class Presentation)
+[Team Assignment 5a: Team Project Midterm Self / Peer Evaluation](assignT05.html) | Individual | TBD, by Noon (PDF submitted to Marmoset)
+[Team Assignment 4b: Team Project Milestone 2 (50%)](assignT04.html) | Team | TBD (in-class Presentation)
+[Team Assignment 4c: Team Project Milestone 3 (w/SQL DB)](assignT04.html) | Team | TBD (in-class Presentation)
+[Team Assignment 5b: Final Team Project Self / Peer Evaluation](assignT05.html) | Individual | TBD, by Noon (PDF submitted to Marmoset)
+[Team Assignment 6: Team Project Reflection](assignT06.html) | Individual | TBD, by Noon (as part of your Final Team Project Peer Evaluations)
+[Team Assignment 7a: Team Project Final Presentation and Demo](assignT07.html) | Team | TBD (during Final Exam Period)
+[Team Assignment 7b: Team Project Technical Report](assign08.html) | Team | TBD, by Noon (PDF submitted to Marmoset)
   | |
 **Individual Project Assignments** | **Individual** | **See Below**
 [Individual Assignment 1: Individual Project Proposal](assignI01.html) | Individual | TBD, by Noon (PDF submitted to Marmoset)
