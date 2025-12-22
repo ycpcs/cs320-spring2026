@@ -9,30 +9,25 @@ The labs provide extremely important concepts and techniques that will be essent
 
 In fact, your team will likely be using Lab06 as the basis for your team project's database.  If you ask any of the teams from previous years, they will all tell you that the database portion of their project implementation was the most time-consuming and difficult of their various project's tasks.
 
-**NOTE: For Lab02a, Lab05, and Lab06 (the labs that require programming submissions), you MUST also refactor (rename) the project to include your username - BEFORE YOU EXPORT IT AND SUBMIT IT TO MARMOSET.  Submissions that DO NOT adhere to that guideline will NOT be graded until they are refactored and resubmitted.**
-
-Example: If I was submitting Lab02a, I would refactor (rename) the **CS320\_Lab02a** project to **CS320\_Lab02a\_dbabcock** as soon as I imported the project into Intellij.  You should do the same with your user name for all three Java programming projects that are listed above.
-
-
-Due Date | Lab | File
----- | --- | ----
-Monday, 2-3-25, by Noon (Marmoset) | [Lab 0: Using ChatGPT](lab00.html) | n/a
-Friday, 2-7-25, by Noon (Marmoset)<br>Wednesday, 2-5-25, by Noon for 25% Extra Credit | [Lab 1: HTML/CSS Resume](lab01.html) | n/a
+Due Date                          | Lab                                  | File
+--------------------------------- | ------------------------------------ | ----
+Tuesday, 1-20, by Noon (Marmoset) | [Lab 0: Using ChatGPT](lab00.html)   | n/a
+Friday, 1-23, by Noon (Marmoset)  | [Lab 1: HTML/CSS Resume](lab01.html) | n/a
+Wednesday, 1-28 (in-class)        | [Lab 2: Git Lab, Part I](lab02.html) | n/a
+Monday, 2-2 (in-class, ungraded, no submission) | [Lab 3: Web Applications I](lab03.html)    | [CS320\_Lab03.zip](CS320_Lab03.zip)
+Saturday, 2-7 by Noon, w/sign-off (Marmoset) | [Lab 4: Web Applications II](lab04.html) | n/a
 
 <!--
-Monday, 2-10-25 (in-class) | [Lab 3: Git Part I](lab03.html) | n/a
-Friday, 2-14-25 (in-class, ungraded, no submission) | [Lab 2](lab02.html) | [CS320\_Lab02.zip](CS320_Lab02.zip)<br> [CS320\_Jetty9.zip](CS320_Jetty9.zip)
-Saturday, 2-22-25, by Noon, w/sign-off (Marmoset) | [Lab 2a: Web Applications II](lab02a.html) | [CS320\_Lab02.zip](CS320_Lab02.zip)<br> [CS320\_Jetty9.zip](CS320_Jetty9.zip)
 Friday, 3-28-25, by Noon (Marmoset) | [Lab 4: SQL Queries & Joins](lab04.html) | [CS320\_Lab04.zip](CS320_Lab04.zip), [CS320\_Derby.zip](CS320_Derby.zip)
 Monday, 3-31-25, by Noon (Marmoset) | [Lab 5: JDBC](lab05.html) | [CS320\_Lab05.zip](CS320_Lab05.zip)
 Wednesday, 4-9-25, by Noon 150% credit (Marmoset)<br>Friday, 4-11-25, by Noon 125% credit (Marmoset)<br>Sunday, 4-13-25, by Noon 100% credit (Marmoset) | [Lab 6: ORM](lab06.html) | [CS320\_Lab06.zip](CS320_Lab06.zip)
 -->
 
-All of the above labs, with the exception of Lab03 (Git Lab) are to be completed individually. I encourage you to discuss high level concepts and strategies with other students, but any work you submit **must be yours alone**.
+All of the above labs, with the exception of Lab02 (Git Lab) are to be completed individually. I encourage you to discuss high level concepts and strategies with other students, but any work you submit **must be yours alone**.
 
-The exception to the above policy is that you may use ChatGPT (or any other similar service) for Lab00 (Using ChatGPT), Lab01 (HTML/CSS Resume), Lab02 and Lab02a (Web Applications Labs).  **You may NOT use ChatGPT for any of the SQL Labs (Lab04, Lab05, Lab06).**
+The exception to the above policy is that you may use ChatGPT (or any other similar service) for Lab00 (Using ChatGPT), Lab01 (HTML/CSS Resume), Lab03 and Lab04 (Web Applications I/II Labs).  **You may NOT use ChatGPT for any of the SQL Labs (Lab04, Lab05, Lab06).**
 
-**NOTE:** After further consideration, I have decided that team members **ARE** allowed to work together on the **ORM Lab (Lab06)**.  However, you must provide your own solution, and submit your own code.
+**NOTE:** Team members **ARE** allowed to work together on the **ORM Lab (Lab06)**.  However, you must provide your own solution, and submit your own code.
 
 Because these labs are essential for working towards and demonstrating the capability to provide a significant technical contribution to your team project, as well the achievement of the course outcomes, you must solve them on your own.  You may discuss the problem and high-level (pseudo-code) approaches to solving the problem with other students.  You may *not*, under any circumstances, discuss or share concrete implementation techniques or code.  Examples of forbidden types of collaboration include, but are not limited to: looking at another student's code, allowing another student to see your code, viewing and/or using code from an external source such as a web page or ChatGPT (unless explicitly allowed by the instructor and/or the instructions), discussing the use of specific API functions to solve a problem, giving or receiving help debugging specific code.
 

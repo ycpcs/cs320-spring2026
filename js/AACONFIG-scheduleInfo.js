@@ -19,26 +19,25 @@ courseInfo.classPeriods = [
  	{
  		topic: new Topic("Team Project Introduction", "assign/assignT01.html"),
  	},
-//  	{
-//  		topic: new DoubleTopic("Lecture 6: File I/O, Exceptions", "lectures/lecture06.html", "CS201_Lecture06_Gradle.zip","examples/CS201_Lecture06_Gradle.zip"),
-//  		reading: "2.5&ndash;2.6",
-//  		lab: new NumberedLabGradle(6, "Text File I/O")
-//  	},
-//  	{
-//  		topic: new DoubleTopic("Lecture 7: Exceptions", "lectures/lecture07.html", "CS201_Lecture07_Gradle.zip", "examples/CS201_Lecture07_Gradle.zip"),
-//  		reading: "2.5",
-//  		lab: new NumberedLabGradle(7, "Exceptions")
-//  	},
-//  	{
-//  		topic: new DoubleTopic("Lecture 8: Inheritance", "lectures/lecture08.html", "CS201_Lecture08_Gradle.zip","examples/CS201_Lecture08_Gradle.zip"),
-//  		reading: "4.1&ndash;4.2",
-//  		lab: new NumberedLabGradle(8, "Inheritance and Polymorphism")
-//  	},
-//  	{
-//  		topic: new DoubleTopic("Lecture 9: Inheritance (continued)", "lectures/lecture09.html", "CS201_Lecture09_Gradle.zip","examples/CS201_Lecture09_Gradle.zip"),
-//  		reading: "4.3&ndash;4.4",
-//  		lab: new NumberedLabGradle(9, "Inheriting Fields and Methods")
-//  	},
+  	{
+  		topic: new Topic("Lecture 4: Git for Designers", "https://web.archive.org/web/20150301060509/http://hoth.entp.com/output/git_for_designers.html"),
+  		lab: new NumberedLab(2, "Git Lab, Part I")
+  	},
+  	{
+  		topic: new Topic("Review ChatGPT and HTML/CSS Labs", ""),
+  	},
+  	{
+  		topic: new Topic("Lecture 5: Web Applications I", "lectures/lecture05.html"),
+  		lab: new NumberedLab(3, "Web Applications I")
+  	},
+  	{
+  		topic: new Topic("Lecture 5: Web Applications, cont.", "lectures/lecture05.html"), 
+  		lab: new NumberedLab(4, "Web Applications II")
+  	},
+  	{
+  		topic: new DoubleTopic("Lecture 6: Software Development Processes", "lectures/lecture06.html", "Lecture 7: Agile Process", "lectures/lecture07.html"),
+  		reading: "UD: Chap 2 <br> Scrum Guide"
+  	},
 //  	{
 //  		topic: new Topic("Exam 1 Review", "")
 //  	},
