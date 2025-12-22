@@ -13,12 +13,12 @@ Welcome to the website for CS 320, Software Engineering and Design, at York Coll
 
 * [Syllabus](syllabus.html)
 * [Schedule](schedule.html)
+* [Calendar](CS320-Spring2025Calendar.pdf)
 * [Labs](labs/index.html)
 * [Assignments](assign/index.html)
 * [Resources](resources/index.html)
 * [Tutoring](tutoring.html)
 * [Marmoset (submission server)](https://cs.ycp.edu/marmoset)
-* [Practice Exams](practice/index.html)
 * [JDK 23 API documentation](https://docs.oracle.com/en/java/javase/23/docs/api/index.html)
 
 
