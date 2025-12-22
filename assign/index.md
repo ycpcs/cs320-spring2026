@@ -11,7 +11,6 @@ Assignment | Type | Due
 ---------- | ---- | ---
 **Team Project Assignments** | **Team** | **See Below**
 [Team Assignment 1: Team Project Proposal](assignT01.html) | Team | TBD, by Noon (PDF submitted to Marmoset)
-
 <!--
 [Assignment 5: Draft Use Cases](assign05.html)<br>[Assignment 5: Final Use Cases](assign05.html) | Team | Wednesday, 2-26-25, by start of class (Shared Google Doc)<br>Sunday, 3-2-25, by Noon (Shared Google Doc) and Marmoset (PDF)
 [Assignment 6: Problem Domain Analysis](assign06.html) | Team | Sunday, 3-16-25, by Noon (Shared Google Doc) and Marmoset (PDF)
@@ -32,4 +31,3 @@ Assignment | Type | Due
 [Individual Assignment 2b: Individual Project Milestone 2 (50%)](assignI02.html) | Individual | TBD (in-class Demo)
 [Individual Assignment 2c: Individual Project Final Demo](assignI02.html) | Individual | TBD (in class Demo)
 [Individual Assignment 3: Individual Project Report](assignI03.html) | Individual | TBD, by Noon (PDF submitted to Marmoset)
--->

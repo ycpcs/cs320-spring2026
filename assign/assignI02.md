@@ -9,7 +9,7 @@ This document describes the expectations for each milestone.  See the [Assignmen
 
 **Important**: For each milestone, make sure you come to class prepared to demonstrate your work.  If there is any hardware or software you need, it is your responsibility to make sure it is available and working.
 
-**Regarding vidoes:** You will be presenting an in-person demo to me in class.  You are permited to make a back-up video in-case something goes wrong with your in-person presentation, but **DO NOT** rely on your demo as your first line of presentation.  If you cannot transport your developent environment and/or hardware to the classroom, bring a video of your working demonstration.  You will still be required to present and discuss your demo in-person, as well as answer questions about it.
+**Regarding videos:** You will be presenting an in-person demo to me in class.  You are permited to make a back-up video in-case something goes wrong with your in-person presentation, but **DO NOT** rely on your demo as your first line of presentation.  If you cannot transport your developent environment and/or hardware to the classroom, bring a video of your working demonstration.  You will still be required to present and discuss your demo in-person, as well as answer questions about it.
 
 **Important**: Each individual milestone demo can be no longer than 3-4 minutes (in order for me to see all of the demos during class.)
 
