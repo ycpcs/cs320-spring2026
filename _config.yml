@@ -1,0 +1,4 @@
+coursename: "CS 320"
+baseurl: "/cs320-spring2026"
+markdown: kramdown
+highlighter: rouge
