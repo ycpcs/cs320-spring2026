@@ -13,7 +13,7 @@ Welcome to the website for CS 320, Software Engineering and Design, at York Coll
 
 * [Syllabus](syllabus.html)
 * [Schedule](schedule.html)
-* [Calendar](CS320-Spring2025Calendar.pdf)
+* [Calendar](CS320-Spring2026Calendar.pdf)
 * [Labs](labs/index.html)
 * [Assignments](assign/index.html)
 * [Resources](resources/index.html)
