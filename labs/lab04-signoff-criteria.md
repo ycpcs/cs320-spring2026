@@ -41,6 +41,6 @@ Tests for Web Applications II Lab Sign-Off
 
 18) In **multiplyNumbersServlet.java**: Verify MVC is followed.  **NO** direct calls to **Numbers** model setter methods.  Only controller methods used to change **Numbers** attributes.
 
-19) Pull up **addNumbers.JSP**: Verify it **ONLY** pulls model data directly from **Numbers.java** model.
+19) Pull up **addNumbers.jsp**: Verify it **ONLY** pulls model data directly from **Numbers.java** model.
 
 20) Run JUnit tests for **NumbersController.java** and **Numbers.java** methods: Test cases exist and pass.  Complete test cases cover **constructor(s)**, **getters**, **setter(s)**, and **add** and **multiply** methods.
