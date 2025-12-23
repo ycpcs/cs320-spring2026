@@ -43,9 +43,6 @@ Submitting
 
 When you are done, submit the lab to the Marmoset server using the method below.
 
-From a web browser
-------------------
-
 (Ensure you have the **Project to Zip** plugin installed).
 
 Save the project (**CS320\_Lab03**) to a zip file by selecting
@@ -53,6 +50,9 @@ Save the project (**CS320\_Lab03**) to a zip file by selecting
 > **File &rarr; Export &rarr; Project to Zip File**
 
 Make sure to choose an appropriate location and archive name before saving the archive, or you might unintentionally overwrite an archive that you previously saved.
+
+From a web browser
+------------------
 
 Upload the saved zip file to the **Lab03** project on the Marmoset server. The server URL is
 
