@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Lab02a: Web Applications II Lab Sign-Off"
+title: "Lab04: Web Applications II Lab Sign-Off"
 ---
 
-Tests for Web Applications II Lab (Lab02a) Sign-Off
+Tests for Web Applications II Lab Sign-Off
 ===============
- 1) Pull up **Lab02a** in Eclipse: Verify project name has been changed to **"CS320\_lab02a\_username"**, "username" = student's YCP username.
+ 1) Pull up **Lab04** in Intellij
 
  2) Pull up **Index page**: Verify that the there are links/buttons for **AddNumbers**, **MultiplyNumbers**, and **GuessingGame**.
 
