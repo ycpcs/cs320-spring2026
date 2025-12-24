@@ -116,6 +116,9 @@ OK (14 rows(s))
 
 **NOTE:** Look out for the "traps" of not specifying a semi-colon at the end of your SQL statement in SQLDemo, and for having an odd number of single quotes in a query.  Also, you will have to figure out how to specify a single quote as part of a text string, and you will also have to figure out how to insert a new row into a table **(hint: w3schools)**.
 
-Upload your solution text file to the **Lab05** project on the Marmoset server. The server URL is
+Submitting
+==========
+
+Upload your solution **text** file to the **Lab05** project on the Marmoset server (**not** the project source). The server URL is
 
 > [https://cs.ycp.edu/marmoset/](https://cs.ycp.edu/marmoset/)
