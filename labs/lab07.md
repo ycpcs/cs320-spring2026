@@ -64,8 +64,3 @@ From a web browser
 Upload the saved zip file to the **Lab07** project on the Marmoset server. The server URL is
 
 > [https://cs.ycp.edu/marmoset/](https://cs.ycp.edu/marmoset/)
-
-
-Upload the saved zip file to the **Lab07** project on the Marmoset server. The server URL is
-
-> [https://cs.ycp.edu/marmoset/](https://cs.ycp.edu/marmoset/)
