@@ -19,7 +19,7 @@ Welcome to the website for CS 320, Software Engineering and Design, at York Coll
 * [Resources](resources/index.html)
 * [Tutoring](tutoring.html)
 * [Marmoset (submission server)](https://cs.ycp.edu/marmoset)
-* [JDK 23 API documentation](https://docs.oracle.com/en/java/javase/23/docs/api/index.html)
+* [JDK 25 API documentation](https://docs.oracle.com/en/java/javase/25/docs/api/index.html)
 
 
 ## News
