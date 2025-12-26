@@ -3,7 +3,7 @@ layout: default
 title: "Labs"
 ---
 
-**BE SURE* you have [installed Java and IntelliJ](../resources/index.html). 
+**BE SURE** you have [installed Java and IntelliJ](../resources/index.html). 
 
 This page lists the lab activities for the course.  I will introduce and review the labs in class, but you will have to work on them outside of class, as they require a **substantial** amount of time and effort.  All of the labs will be graded on a **Pass / Fail** basis, as required assignments.  **Note that failure to submit a sufficiently complete lab by the due date (a lab that receives a failing grade OR is late) could result in up to a 5% penalty off your course grade.**
 
