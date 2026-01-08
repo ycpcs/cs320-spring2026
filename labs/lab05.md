@@ -119,6 +119,6 @@ OK (14 rows(s))
 Submitting
 ==========
 
-Upload your solution **text** file to the **Lab05** project on the Marmoset server (**not** the project source). The server URL is
+Upload your solution **text** file to the **Lab 5** project on the Marmoset server (**not** the project source). The server URL is
 
 > [https://cs.ycp.edu/marmoset/](https://cs.ycp.edu/marmoset/)

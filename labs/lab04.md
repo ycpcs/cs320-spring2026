@@ -78,7 +78,7 @@ Make sure to choose an appropriate location and archive name before saving the a
 From a web browser
 ------------------
 
-Upload the saved zip file to the **Lab04** project on the Marmoset server. The server URL is
+Upload the saved zip file to the **Lab 4** project on the Marmoset server. The server URL is
 
 > [https://cs.ycp.edu/marmoset/](https://cs.ycp.edu/marmoset/)
 
