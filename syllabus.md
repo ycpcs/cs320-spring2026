@@ -16,7 +16,7 @@ CS 320 - Software Engineering and Design
 
 **Instructor:**
 
--   Dr. David S. Babcock, <dbabcock@ycp.edu><br>, KEC117A Office Hours: TBD or by appointment
+-   Dr. David S. Babcock, <dbabcock@ycp.edu><br>, KEC117A Office Hours: M 11am-12pm, T 11am-1pm, W 11am-12pm, F 11am-12pm or by appointment
 
 Course Description
 ------------------
