@@ -174,7 +174,9 @@ Any violation of the course's academic integrity policy will be referred to the 
 
 York College of Pennsylvania offers a variety of accommodations to students with documented disabilities. To request accommodations, please contact Student Accessibility Services at (717)-815-1717 or <sas@ycp.edu>. Student Accessibility Services will discuss the confidential process of requesting accessibility services and establish the accommodations for which the student is eligible.
 
-If you already have an accommodation memo and wish to access your accommodations in this class, please see us confidentially to discuss.
+If you already have an accommodation memo and wish to access your accommodations in this class, please see me confidentially to discuss.
+
+There is a possibility that during this course, classroom lectures may be recorded in accordance with York College of Pennsylvania policies for Student Accessibility Services.
 
 ### Use of Personal Technology in the Classroom
 
