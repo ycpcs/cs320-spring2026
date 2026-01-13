@@ -19,7 +19,7 @@ Assignment | Type | Due
 [Team Assignment 4c: Team Project Milestone 3 (w/SQL DB)](assignT04.html) | Team | Monday Apr 13 (in-class Presentation)
 [Team Assignment 5b: Final Team Project Self / Peer Evaluation](assignT05.html) | Individual | Saturday May 2, by Noon (PDF submitted to Marmoset)
 [Team Assignment 6: Team Project Reflection](assignT06.html) | Individual | Saturday May 2, by Noon (as part of your Final Team Project Peer Evaluations)
-[Team Assignment 7a: Team Project Final Presentation and Demo](assignT07.html) | Team | Monday, 5/4 from 2:45-4:45pm (during Final Exam Period)
+[Team Assignment 7a: Team Project Final Presentation and Demo](assignT07.html) | Team | **Monday May 4 from 2:45-4:45pm** (during Final Exam Period)
 [Team Assignment 7b: Team Project Technical Report](assignT07.html) | Team | Tuesday May 5, by Noon (PDF submitted to Marmoset)
   | |
 **Individual Project Assignments** | **Individual** | **See Below**
