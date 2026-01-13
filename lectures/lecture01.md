@@ -30,7 +30,7 @@ You will be learning all of that **by doing all of that** this semester while re
 
 Individual Project
 ==================
-An individual project of your own choosing - choose something that you want to be able to do, that you don't already know how to do, do it, and prove it.  The individual project will run for 10 weeks - starting now  (assignments 2, 4, 9).
+An individual project of your own choosing - choose something that you want to be able to do, that you don't already know how to do, do it, and prove it.  The individual project will run for 10 weeks - starting now!
  
 Why are we going to do that?
  
@@ -43,19 +43,19 @@ Learning how to learn for yourself is quite empowering.  You can solve any probl
 Team Project
 ============
    
-A semester long team project that you will select from a list of projects that are posted on the course website (assignments 1, 3, 8).  The team project runs the entire semester - starting now.  You will give several team milestone presentations during the semester.  Your final presentations will be during finals week.  Your team project **MUST** use a client-server architecture.  It **MUST** have a web front-end that connects to a server back-end.  The web front-end is the user interface (UI). The back-end does the processing, stores and retrieves the data in a SQL database, and serves up the web pages.  At a minimum, you will be using Eclipse, Java, HTML/CSS, and SQL for your project.  You will probably use javaScript, and more than that.
+A semester long team project that you will select from a list of projects that are posted on the course website.  The team project runs the entire semester - starting now!  You will give several team milestone presentations during the semester.  Your final presentations will be during finals week.  Your team project **MUST** use a client-server architecture.  It **MUST** have a web front-end that connects to a server back-end.  The web front-end is the user interface (UI). The back-end does the processing, stores and retrieves the data in a SQL database, and serves up the web pages.  At a minimum, you will be using Eclipse, Java, HTML/CSS, and SQL for your project.  You will probably use javaScript, and more than that.
 
 Why are we going to do this?
    
 Your team project covers all the facets of Team Project Development:
 
-**Proposal (assignment 1):** Propose what your team is going to do.
+[Proposal (team assignment 1)](../assign/assignT01.html): Propose what your team is going to do.
    
-**Requirements (assignment 5):** Gather the requirements for your application.
+[Requirements (team assignment 2)](../assign/assignT02.html): Gather the requirements for your application.
    
-**Use Cases (assignment 5):** Create Use Cases from those requirements.
+[Use Cases (team assignment 2)](../assign/assignT02.html): Create Use Cases from those requirements.
    
-**Analysis & Design (assignment 6):** Create design and architecture document using textual analysis from your Use Cases, and create a UML diagram for the structure and interaction of your project classes.
+[Analysis & Design (team assignment 3)](../assign/assignT03.html): Create design and architecture document using textual analysis from your Use Cases, and create a UML diagram for the structure and interaction of your project classes.
    
 **Version Control (Git & GitHub):** How to manage and share issues, milestones, code, and documentation between all of your team members (Git will be the bain of your existence).
    
