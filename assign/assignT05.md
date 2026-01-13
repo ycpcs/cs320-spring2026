@@ -27,9 +27,9 @@ You will fill out and submit both assignments in that form at the same time.
 
 When you are ready, download [PeerReview.doc](PeerReview.doc), fill it out, and follow the submission instructions below.
 
-**Midterm submission:** upload the completed form to Marmoset as **assign11-midterm-peereval-username**.  You *must* submit it in PDF format, which means that you must save the final document version as a PDF.
+**Midterm submission:** upload the completed form to Marmoset as **assignT05-midterm-peereval-username**.  You *must* submit it in PDF format, which means that you must save the final document version as a PDF.
 
-**Final submission:** upload the completed form to Marmoset as **assign11-final-peereval-username**.  You *must* submit it in PDF format, which means that you must save the final document version as a PDF.
+**Final submission:** upload the completed form to Marmoset as **assignT05-final-peereval-username**.  You *must* submit it in PDF format, which means that you must save the final document version as a PDF.
 
 <div class="callout">
 Your self / peer evaluation <em>must</em> be submitted in PDF format.  Submissions in any other format may receive a grade of 0.
