@@ -27,7 +27,7 @@ Hello, world in HTML
 
 ~~~
 	
-<a href="lecture02/hello.html">Link</a>
+<a href="lecture03/hello.html">Link</a>
 
 Try saving this in a text file with a **.html** file extension and then open it in a web browser.
 
