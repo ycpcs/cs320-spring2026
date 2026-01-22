@@ -24,6 +24,10 @@ Welcome to the website for CS 320, Software Engineering and Design, at York Coll
 
 ## News
 
+* **Feb 1** - [Team Project Proposal](assign/assignT01.html) **due by Noon, Sunday, 2-1**.
+
+* **Jan 25** - [Individual Project Proposal](assign/assignI01.html) **due by Noon, Sunday, 1-25**.
+
 * **Jan 23** - [Lab01: HTML & CSS Resume](labs/lab01.html) **due by Noon, Friday, 1-23**.
 
 * **Jan 20** - [Lab00: Using ChatGPT](labs/lab00.html) **due by Noon, Tuesday, 1-20**.

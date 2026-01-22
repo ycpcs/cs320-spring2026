@@ -14,7 +14,7 @@ Your main task this semester is to complete a semester-long *Text Based Adventur
 
 Here is a description of this project [TBAG](../projects/TBAG.html).
 
-If you and your team want to tackle a project not on that list, you and your team will have to provide me with *extremely compelling evidence** that your entire team is up to the task, as I (and the class tutors) will not be able to provide your team with as much guidance throughout the semester as you would get for one of the standard projects.
+If you and your team want to tackle a project not on that list, you and your team will have to provide me with **extremely compelling evidence** that your entire team is up to the task, as I (and the class tutors) will not be able to provide your team with as much guidance throughout the semester as you would get for one of the standard projects.
 
 In a 3-4 page document, describe the following:
 

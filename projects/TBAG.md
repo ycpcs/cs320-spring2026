@@ -34,7 +34,7 @@ There must be an established dictionary and vocabulary - the words and phrases t
 
 You will need to create a game "engine" - the functionality that executes the moves and actions that the user enters.  In addition that game engine will need to keep track of score, health, inventory, object locations, rooms that the player has visited, and the locations and movements of any of the other active agents (NPCs - non-player characters: animals, monsters, etc) that exist in the game.  There may be other functionality that the game engine will need.
 
-There must be an inventory of objects that can be distributed throughout the rooms in the map.  Items consist of tools, weapons, materials, treasures, commodities, machines, etc.  Objects can generally be mamipulated by the user, taken into the user's posession, and/or moved between rooms, but some objects may also be stationary.
+There must be an inventory of objects that can be distributed throughout the rooms in the map.  Items consist of tools, weapons, materials, treasures, commodities, machines, etc.  Objects can generally be mamipulated by the user, taken into the user's possession, and/or moved between rooms, but some objects may also be stationary.
 
 There must be multiple actors and agents: the player(s), various creatures and monsters, and benign and/or benevolent characters.  It is possible for the actors and agents to move about the map on their own.  There can be conflict between various actors - sometimes facilitated by objects that the player has, or objects that are contained within a certain room.
 
