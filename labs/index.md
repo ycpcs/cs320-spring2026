@@ -16,8 +16,8 @@ Due Date                          | Lab                                  | File
 Tuesday, 1-20, by Noon (Marmoset) | [Lab 0: Using ChatGPT](lab00.html)   | n/a
 Friday, 1-23, by Noon (Marmoset)  | [Lab 1: HTML/CSS Resume](lab01.html) | n/a
 Wednesday, 1-28 (in-class)        | [Lab 2: Git Lab, Part I](lab02.html) | n/a
-Monday, 2-2 (in-class, ungraded, no submission) | [Lab 3: Web Applications I](lab03.html)    | [CS320\_Lab03.zip](CS320_Lab03.zip)
-Saturday, 2-7 by Noon, w/sign-off (Marmoset) | [Lab 4: Web Applications II](lab04.html) | n/a
+Monday, 2-2 (in-class, ungraded) | [Lab 3: Web Applications I](lab03.html)    | [CS320\_Lab03.zip](CS320_Lab03.zip)
+Saturday, 2-7 by Noon, w/sign-off (Marmoset) | [Lab 4: Web Applications II](lab04.html) | [CS320\_Lab04.zip](CS320_Lab04.zip)
 Friday, 3-20, by Noon (Marmoset) | [Lab 5: SQL Queries & Joins](lab05.html) | [CS320\_Lab05.zip](CS320_Lab05.zip)
 Tuesday, 3-24, by Noon (Marmoset) | [Lab 6: JDBC](lab06.html) | [CS320\_Lab06.zip](CS320_Lab06.zip)
 Thursday, 4-2, by Noon (Marmoset) | [Lab 7: ORM](lab07.html) | [CS320\_Lab07.zip](CS320_Lab07.zip)

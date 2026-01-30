@@ -24,6 +24,10 @@ Welcome to the website for CS 320, Software Engineering and Design, at York Coll
 
 ## News
 
+* **Feb 7** - [Lab04: Web Applications II](labs/lab04.html) **due by Noon, Saturday, 2-7**.
+
+* **Feb 2** - [Lab03: Web Applications I](labs/lab03.html) **due by class, Monday, 2-2**.
+
 * **Feb 1** - [Team Project Proposal](assign/assignT01.html) **due by Noon, Sunday, 2-1**.
 
 * **Jan 25** - [Individual Project Proposal](assign/assignI01.html) **due by Noon, Sunday, 1-25**.
