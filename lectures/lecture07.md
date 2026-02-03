@@ -39,7 +39,7 @@ The client/customer is in constant contact with the development team, and is con
 
 At the beginning of each iteration or **sprint** (let's say we will have two week sprints), the customer chooses a set of requirements to be addressed in that sprint, in order from most important to least important. The requirements are recorded as **Use Cases** (how the User will use the application).
 
-The developers take the Use Cases, and use them to update the **Aanalysis and Design Models**. That step is necessary because the existing design may not have anticipated the requirement being addressed by the Use Case, and needs to be extended to address the requirement. If the Design Mndel changes, the code usually must be refactored to conform to the new Design. Refactoring means changing the internal structure of code without changing WHAT the code does. In other words, after refactoring a program, the functionality of the program is exactly the same.
+The developers take the Use Cases, and use them to update the **Aanalysis and Design Models**. That step is necessary because the existing design may not have anticipated the requirement being addressed by the Use Case, and needs to be extended to address the requirement. If the Design Model changes, the code usually must be refactored to conform to the new Design. Refactoring means changing the internal structure of code without changing WHAT the code does. In other words, after refactoring a program, the functionality of the program is exactly the same.
 
 Examples of refactoring:
 
@@ -56,7 +56,7 @@ As developers refactor the code, they run all of the **Automated Unit Tests** to
 
 Once refactoring is complete, the developers modify the code to add new features (addressing the requirements selected by the customer for the sprint). As they work, the developers also develop the associated unit tests to ensure the new classes and methods they are adding work correctly, and continue to run the old unit tests to make sure that no **regressions** have been introduced. A regression is a bug in which a change to the code causes a feature that previously worked to no longer work correctly.
 
-At the end of the spring, the developers have implemented some number of new requirements.
+At the end of the sprint, the developers have implemented some number of new requirements.
 
 If all of the customer's chosen requirements for the week have been addressed, great. Everyone's happy.
 
