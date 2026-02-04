@@ -52,11 +52,11 @@ You have six tasks:
 Submitting
 ==========
 
-**NOTE:** You **must** also get this lab signed off by a tutor/mentor or your instructor in order to get credit for it.  Simply submitting the lab to Marmoset without a lab sign-off will **NOT** result in any credit.  **You must get a lab sign-off**.
+**NOTE:** You **must** also submit the checklist of tests for the components that are **working** in order to get credit for it. Simply submitting the lab to Marmoset without a checklist will **NOT** result in any credit. The instructor will verify the checklist is *accurate* resulting in a **FAIL** if the checklist does not match the submitted code.
 
-**[Here is the complete set of tests that will be used to sign-off on your lab.](lab04-signoff-criteria.html)**
+**[Here is the complete set of tests for your lab.](lab04-signoff-criteria.html)**
 
-Here is a [PDF version of the complete sign-off criteria](CS320-Lab04-WebApplicationsII-LabSignOff.pdf) that you can **download, print, and use as a checkoff list when you get the sign-off for the lab.**
+Here is a [PDF version of the checklist criteria](CS320-Lab04-WebApplicationsII-LabSignOff.pdf) that you can **download, print, and use as a checkoff list to submit with your code.**
 
 Although you should strive to satisfy all of the above tests, a minimum passing submission must have the following:
 * An **operational Index page** that links to all 3 applications
@@ -66,6 +66,8 @@ Although you should strive to satisfy all of the above tests, a minimum passing 
 * There will be at least **some test cases** for the methods in **NumbersController.java** and **Numbers.java**
 
 When you are done, submit the lab to the Marmoset server using the method below.
+
+**Place a pdf of your filled out checklist into the CS320\_Lab04 folder.**
 
 (Ensure you have the **Project to Zip** plugin installed).
 
