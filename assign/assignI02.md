@@ -22,7 +22,7 @@ This document describes the expectations for each milestone.  See the [Assignmen
 
 ## Expectations
 
-**Milestone 1: Baseline Prototype**.  First, you will need to demonstrate that you have installed all of the tools you need to develop your project: IDEs, packages, libraries, etc.  if you are working with hardware, you will need to ahve your components.  You should also be ready to demonstrate some concrete progress on your project in the form of a basic prototype.  The prototype should support some of the functionality described in your proposal, but it can be in a very basic form.  if you are working in Unity or Unreal, at a minimum, you should be able to demonsrate that you have successfully completed a working tutorial and discuss your next steps for Milestone 2.
+**Milestone 1: Baseline Prototype**.  First, you will need to demonstrate that you have installed all of the tools you need to develop your project: IDEs, packages, libraries, etc.  if you are working with hardware, you will need to have your components.  You should also be ready to demonstrate some concrete progress on your project in the form of a basic prototype.  The prototype should support some of the functionality described in your proposal, but it can be in a very basic form.  if you are working in Unity or Unreal, at a minimum, you should be able to demonsrate that you have successfully completed a working tutorial and discuss your next steps for Milestone 2.
 
 **Milestone 2: 50% Progress**: For this milestone, you should be about half of the way towards completion of the project.  There should be some substantial progress towards completing the proposed work.
 
