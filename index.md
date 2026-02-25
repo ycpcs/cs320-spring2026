@@ -24,6 +24,8 @@ Welcome to the website for CS 320, Software Engineering and Design, at York Coll
 
 ## News
 
+* **Feb 27** - [Team Project Analysis and Design](assign/assignT03.html) **due by 5pm, Friday, 2-27**.
+
 * **Feb 19** - [Team Project Use Cases - Final](assign/assignT02.html) **due by Noon, Thursday, 2-19**.
 
 * **Feb 16** - [Team Project Use Cases - Draft](assign/assignT02.html) **shared Google Doc by class**.

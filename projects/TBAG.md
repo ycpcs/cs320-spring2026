@@ -3,6 +3,13 @@ layout: default
 title: "Project: Text-Based Adventure Game"
 ---
 
+Sample Basic Code
+=================
+
+Here is a very basic sample IntelliJ project.
+
+[CS320\_TBAG.zip](CS320_TBAG.zip)
+
 Project Summary
 ===============
 Design and develop a platform for creating and playing text-based adventure games, AKA interactive fiction, as described for [Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure), the first such game of its kind.  In order to fully understand the concept, as well as the endless possibilities, you should first study the history of the early interactive fiction games, as well as locate an implementation that you can play, to familiarize yourself with the genre.
