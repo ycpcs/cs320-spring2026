@@ -24,6 +24,12 @@ Welcome to the website for CS 320, Software Engineering and Design, at York Coll
 
 ## News
 
+* **Mar 16** - [Individual Project Milestone 2](assign/assignI02.html) **in class, Monday, 3-16**.
+
+* **Mar 13** - [Team Project Milestone 1](assign/assignT04.html) **in class, Friday, 3-13**.
+
+* **Mar 2-Mar 6** - **WINTER BREAK**
+
 * **Feb 27** - [Team Project Analysis and Design](assign/assignT03.html) **due by 5pm, Friday, 2-27**.
 
 * **Feb 19** - [Team Project Use Cases - Final](assign/assignT02.html) **due by Noon, Thursday, 2-19**.
