@@ -10,6 +10,10 @@ Here is a very basic sample IntelliJ project.
 
 [CS320\_TBAG.zip](CS320_TBAG.zip)
 
+Then once the server is running, you can get to the webpage using
+
+> [http://localhost:8081/tbag/tbag](http://localhost:8081/tbag/tbag)
+
 Project Summary
 ===============
 Design and develop a platform for creating and playing text-based adventure games, AKA interactive fiction, as described for [Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure), the first such game of its kind.  In order to fully understand the concept, as well as the endless possibilities, you should first study the history of the early interactive fiction games, as well as locate an implementation that you can play, to familiarize yourself with the genre.
