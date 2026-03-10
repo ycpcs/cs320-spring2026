@@ -7,25 +7,23 @@ title: "Team Assignment 5: Team Project Self / Peer Evaluation"
 
 This is an **individual** assignment
 
-# Self / Peer Evaluation
+# Midterm Self / Peer Evaluation
 
-You can preview the [Team Project Self / Peer Evaluation Form](PeerReview.pdf) here.  
+You can preview the [Midterm Team Project Self / Peer Evaluation Form](Midterm-PeerEval.pdf) here.  
 
 Use this form to evaluate and rank the contributions of you and your team members to the success of your team project.
 
 You must also rank and rate all of the team projects that are being developed in your section.
 
-# Project Self Reflection (Final Peer Evals ONLY)
+# Final Self / Peer Evaluation and Project Self Reflection (Final Peer Evals ONLY)
 
-For your **final peer evaluation submission**, you will also be using the same form to submit your [Team Assignment 6: Team Project Self Reflection](assignT06.html).
+You can preview the [Final Team Project Self / Peer Evaluation Form](Final-PeerEval.pdf) here.  
+
+For your **final peer evaluation submission**, you will use the same form to submit your [Team Assignment 6: Team Project Self Reflection](assignT06.html).
 
 You will fill out and submit both assignments in that form at the same time.
 
-**NOTE:** You do NOT need to fill out the Project Self Reflection for your Mid-Semester Peer Evaluations - **it is only due in combination with your Final Peer Evaluation submission.**
-
 # Submitting
-
-When you are ready, download [PeerReview.doc](PeerReview.doc), fill it out, and follow the submission instructions below.
 
 **Midterm submission:** upload the completed form to Marmoset as **assignT05-midterm-peereval-username**.  You *must* submit it in PDF format, which means that you must save the final document version as a PDF.
 
