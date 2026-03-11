@@ -24,6 +24,8 @@ Welcome to the website for CS 320, Software Engineering and Design, at York Coll
 
 ## News
 
+* **Mar 17** - [Team Project Midterm Peer Evaluation](assign/assignT05.html) **due by Noon, Tuesday, 3-17**.
+
 * **Mar 16** - [Individual Project Milestone 2](assign/assignI02.html) **in class, Monday, 3-16**.
 
 * **Mar 13** - [Team Project Milestone 1](assign/assignT04.html) **in class, Friday, 3-13**.
