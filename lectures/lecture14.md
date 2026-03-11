@@ -3,7 +3,7 @@ layout: default
 title: "Lecture 14: Database Applications, JDBC"
 ---
 
-In [Lab 4](../labs/lab04.html) we experimented with [Derby](https://db.apache.org/derby/) by typing queries interactively (using a simple front-end program).
+In [Lab 5](../labs/lab05.html) we experimented with [Derby](https://db.apache.org/derby/) by typing queries interactively (using a simple front-end program).
 
 Another very useful way to interact with a database is from a program that you write. Programs which communicate with a database are often referred to as *database applications*.
 
