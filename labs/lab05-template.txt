@@ -5,13 +5,13 @@ For each query listed below, copy and paste the following information into your 
 * The exact query you came up with (including the "SQL>" prompt
 * The exact result of the query (including the last line that starts with "OK").
 
-Copy and paste the final working query and the results of the query from the Eclipse console underneath its respective question below.  I recommend that you develop each query in this document, and then copy and paste it to the "SQL>" prompt in the Eclipse console, and then execute it.  That way, you can easily iterate editing and executing the SQL queries.
+Copy and paste the final working query and the results of the query from the IntelliJ console underneath its respective question below.  I recommend that you develop each query in this document, and then copy and paste it to the "SQL>" prompt in the IntelliJ console, and then execute it.  That way, you can easily iterate editing and executing the SQL queries.
 
 NOTE: You may NOT use specific author_id's or book_id's in your queries (except for problems 7 and 9, which specifically state to enter an author_id).  You must join the tables using the method given in the lecture and lab, and demonstrated in class.
 
 NOTE: Look out for the "traps" of not specifying a semi-colon at the end of your SQL statement in SQLDemo, and for having an odd number of single quotes in a query.  Also, you will have to figure out how to specify a single quote as part of a text string, and you will also have to figure out how to insert a new row into a table (hint: w3schools).
 
-NOTE: Rename your submission to lab04-username.txt, replacing "username" with your YCP username, before submitting your lab to Marmoset.
+NOTE: Rename your submission to lab05-username.txt, replacing "username" with your YCP username, before submitting your lab to Marmoset.
 
 
 1) The title for each book written by Stephen Hawking (I'll give you this one - as an example for your entries).
