@@ -24,6 +24,14 @@ Welcome to the website for CS 320, Software Engineering and Design, at York Coll
 
 ## News
 
+* **Apr 2** - [Lab07: ORM](labs/lab07.html) **due by Noon, Thursday, 4-2**.
+
+* **Mar 27** - [Team Project Milestone 2](assign/assignT04.html) **in class, Friday, 3-27**.
+
+* **Mar 24** - [Lab06: JDBC](labs/lab06.html) **due by Noon, Tuesday, 3-24**.
+
+* **Mar 20** - [Lab05: SQL Queries and Joins](labs/lab05.html) **due by Noon, Friday, 3-20**.
+
 * **Mar 17** - [Team Project Midterm Peer Evaluation](assign/assignT05.html) **due by Noon, Tuesday, 3-17**.
 
 * **Mar 16** - [Individual Project Milestone 2](assign/assignI02.html) **in class, Monday, 3-16**.
