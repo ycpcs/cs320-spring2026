@@ -75,7 +75,7 @@ to get a reference to the object that implements **IDatabase**.
 
 There are many practical details that need to be worked out to implement ORM.  This is not an exhaustive list, but does highlight some things you should keep in mind.
 
-[Lab 6](../labs/lab06.html) has a small but realistic example of a database application with an ORM layer that should be useful as a reference.
+[Lab 7](../labs/lab07.html) has a small but realistic example of a database application with an ORM layer that should be useful as a reference.
 
 ## Make your model objects POJOs
 
