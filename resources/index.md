@@ -126,11 +126,12 @@ Relational Databases and Structured Query Language (SQL)
 
 [Free Code Camp](https://www.freecodecamp.org): Covers SQL Databases (you need to creaate a free account)
 
-CS320 Functor Demo
-==================
+CS320 Functor Sample
+====================
 
-[CS320\_FunctorDemo.zip](CS320\_FunctorDemo.zip): A brief example showing how to make multiple functors to use to sort a sample **String** array list. 
+[CS320\_FunctorSample.zip](CS320\_FunctorSample.zip): A brief example showing how to make multiple functors to use to sort a sample **String** array list. 
 
+For some notes on functors see [CS201 Functor Notes](https://ycpcs.github.io/cs201-spring2022/lectures/lecture12.html).
 
 CS320 Lab06 (JDBC) Solution will be posted here shortly after the final submission date for Lab06 (see lab schedule)
 ==========================
