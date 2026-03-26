@@ -136,15 +136,13 @@ For some notes on functors see [CS201 Functor Notes](https://ycpcs.github.io/cs2
 CS320 Lab06 (JDBC) Solution will be posted here shortly after the final submission date for Lab06 (see lab schedule)
 ==========================
 
-<!-- Commenting out JDBC and Library Example until they're needed
-
 [CS320\_Lab06\_Solution-2026.zip](CS320_Lab06_Solution-2026.zip): A solution for the JDBC lab (Lab06). Please compare your solution to this code, and make any necessary changes in your code, as an exercise to further understand the material.  There are plenty of comments included in the solution to describe what is happening and why it is being done.
--->
 
 CS320 Library Example Project will be posted here shortly after the final submission date for Lab07 (see lab schedule)
 =============================
 
-<!--
+<!-- Commenting out JDBC and Library Example until they're needed
+
 [CS320\_LibraryExample\_2026.zip](CS320_LibraryExample_2026.zip): project that ties the [Web Applications Lab](../labs/lab04.html) together with the [ORM Lab](../labs/lab07.html).  This application places a web front-end on the SQL transactions from Lab07, as well as provides examples for creating a Derby database from CSV files, how to use session information after login, and how to use JSTL to display a list of complex objects in a JSP.  It has been updated to incorporate a many-to-many (M2M) relationship between **Books** and **Authors**, using a junction table (**booksAuthors**) that cross-references **book_id**'s with **author_id**'s.  It also contains some basic (non-exhaustive) JUnit Tests for testing the Derby database queries.
 
 > <div class="callout"><b>NOTE:</b> You are free to incorporate any of this code into your team project(s) - as long as you <b>cite the source in your code</b> and refactor the names from the <b>db</b> and <b>web</b> directories to something that pertains to your project.</div>
