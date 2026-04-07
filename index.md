@@ -24,6 +24,10 @@ Welcome to the website for CS 320, Software Engineering and Design, at York Coll
 
 ## News
 
+* **Apr 8** - [Individual Project Report](assign/assignI03.html) **due by Noon, Wednesday, 4-8**.
+
+* **Apr 6** - [Individual Project Final Demo](assign/assignI02.html) **in class, Monday, 4-6**.
+
 * **Apr 2** - [Lab07: ORM](labs/lab07.html) **due by Noon, Thursday, 4-2**.
 
 * **Mar 27** - [Team Project Milestone 2](assign/assignT04.html) **in class, Friday, 3-27**.
